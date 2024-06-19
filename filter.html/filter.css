@@ -1,0 +1,11 @@
+img{
+    width: 200px;
+    filter:sepia(2);
+    
+    
+}
+div p{
+    background-color: antiquewhite;
+    color: rgb(47, 47, 104);
+
+}

@@ -1,0 +1,33 @@
+body{
+    height: 200vh;
+    
+}
+
+
+.container{
+    display: inline-flex;
+    gap:20px;
+    background:rgb(238, 70, 146);
+    border-radius: 8px;
+    
+
+}
+    .box{
+        width: 80px;
+        height: 100px;
+        background-color: yellow;
+        
+        border: 1px solid black;
+        
+    }
+    .box:hover{
+        background-color: red;
+
+    }
+    #box1{
+        position: absolute;
+        top:0%;
+        
+        left: 0px;
+        z-index:-8;
+     }

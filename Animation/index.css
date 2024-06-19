@@ -1,0 +1,29 @@
+body {
+}
+
+div {
+  height: 50px;
+  background-color: red;
+  width: 50px;
+  border-radius: 10px;
+}
+@keyframes bg {
+  from {
+    background-color: rgb(216, 73, 51);
+    rotate: 0deg;
+  }
+  to {
+    background-color: rgb(73, 73, 53);
+    scale: 2; rotate: 45deg;
+    translate: 200px 0;
+  }
+}
+.root {
+  animation: bg 1s ease-in-out infinite normal forwards;
+  margin: 50px;
+  border-radius: 10px;
+  animation-duration: 3sec;
+  border-top-left-radius: 30px;
+  border-right: 20px;
+  
+}

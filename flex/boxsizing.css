@@ -1,0 +1,13 @@
+.box{
+    background-color:blueviolet;
+    width: 100px;
+    height: 100px;
+    padding: 100px;
+}
+.box1{
+    background-color:yellow;
+    width: 100px;
+    height: 100px;
+    padding: 100px;
+    box-sizing: border-box;
+}

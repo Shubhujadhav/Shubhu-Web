@@ -1,0 +1,33 @@
+.card{
+    background-color:rgb(197, 33, 66);
+    margin: 70px;
+    width: 200px;
+    border: black double;
+}
+.card img{
+    height: 100px;
+    width: 200px;
+    border: blanchedalmond double;
+}
+.card p{
+    background-color: rgb(235, 170, 170);
+    border:black 50px;
+    width: 200px;
+}
+.card h1{
+    width: 200px;
+    background-color: rgb(115, 225, 163);
+}
+.card a{
+background-color: rgb(153, 241, 192);
+}
+.card button{
+    width: 200px;
+    border: black double;
+}
+.card button :hover{
+    background-color: aquamarine color(rec2020 red green blue);
+}
+.card body{
+    
+}

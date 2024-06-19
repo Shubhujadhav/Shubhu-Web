@@ -1,0 +1,22 @@
+.box{
+    height: 100px;
+    width: 100px;
+  background-color: brown;
+  margin: 50px;
+  padding: 20px;
+  border-radius: 20px;
+  
+} 
+button :active{
+   background-color: red;
+  
+}
+.box1{
+    background-color: black;
+    height: 50px;
+    width: 10px;
+}
+
+.box:active .box1{
+    background-color: aliceblue;
+}
